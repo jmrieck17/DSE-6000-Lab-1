@@ -1,4 +1,4 @@
-# DSE-6000-Lab-1
+# DSE 6000 Lab 1
 
 Refer: https://colab.research.google.com/drive/1lGfIbeiKKsnBgGAah-JDx56H3Q8BG5aY?usp=sharing
 
